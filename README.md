@@ -5,8 +5,8 @@ DevStack is an interactive and responsive web application designed for developer
 ---
 
 ## 🚀 Live Demo & Links
-- **GitHub Repository**: [Repository Link](https://github.com/)
-- **Live Deployment**: [Live Website Link](https://devstack-builder.vercel.app/)
+- **GitHub Repository**: [https://github.com/siamdev1/DevStack_React](https://github.com/siamdev1/DevStack_React)
+- **Live Deployment**: [https://cool-bubblegum-e68008.netlify.app/](https://cool-bubblegum-e68008.netlify.app/)
 
 ---
 

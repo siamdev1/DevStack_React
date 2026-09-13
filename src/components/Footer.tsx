@@ -24,7 +24,7 @@ export const Footer: React.FC = () => {
             </p>
             <div className="flex items-center space-x-3 pt-2">
               <a
-                href="https://github.com"
+                href="https://github.com/siamdev1/DevStack_React"
                 target="_blank"
                 rel="noreferrer"
                 className="w-9 h-9 rounded-lg bg-white border border-slate-200 hover:border-slate-300 hover:bg-slate-100 flex items-center justify-center text-slate-600 hover:text-slate-900 transition-colors shadow-xs"
